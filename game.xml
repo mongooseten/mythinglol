@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="New Game" />
+  <Content type="html">
+    <![CDATA[
+      <iframe src="https://roblox.com" width="800" height="600"></iframe>
+    ]]>
+  </Content>
+</Module>
